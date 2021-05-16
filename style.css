@@ -1,5 +1,6 @@
 body {
-    background-color: fuchsia;
+    background: rgb(238,174,202);
+    background: linear-gradient(45deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
     font-family:Arial, Helvetica, sans-serif;
     color: black;
     font-weight: 300;
@@ -83,4 +84,5 @@ h1 {
 
 #pos1, #pos2, #pos3, #pos4, #pos5{
     font-size: 40pt;
+    color:rgb(4, 0, 255);
 }
